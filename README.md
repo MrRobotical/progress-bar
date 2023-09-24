@@ -1,7 +1,5 @@
 # progress-bar
 
-# This is a test push
+Live app: https://transcendent-madeleine-b0d6f0.netlify.app/
 
-Test pushhhh
-
-Test pull from GH
+Tutorial by: https://www.traversymedia.com/
